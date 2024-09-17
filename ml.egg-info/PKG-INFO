@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: ml
+Version: 0.1.0
+Summary: A simple machine learning library.
+Author: Igor Kovalenko
+Requires-Python: >=3.6
+Requires-Dist: numpy>=1.13.3
