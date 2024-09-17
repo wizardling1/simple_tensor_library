@@ -1,1 +1,2 @@
-examples/mnist/mnist*
+./examples/mnist/*.csv
+./examples/mnist/*.gz
